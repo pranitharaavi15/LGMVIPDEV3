@@ -1,13 +1,13 @@
 const data = [
     {
-        name: "Naimisha Reddy",
+        name: "Pranitha Raavi",
         Maths:"65",
         Physics:"82",
         Chemistry : "75",
         Percentage : "83 %"
     },
     {
-        name: "priya",
+        name: "supriya",
         Maths:"67",
         Physics:"89",
         Chemistry : "85",
